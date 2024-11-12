@@ -1,4 +1,5 @@
 # Laravel_DigitalProductWebsite
+## This is my University Project
 
 ## Table of Contents
 
@@ -10,7 +11,7 @@
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/hackism/Laravel_DigitalProductWebsite.git
 
 2. Install dependencies:
 cd project-name composer install npm install
@@ -34,5 +35,3 @@ php artisan serve
 
 2. Open your browser and visit `http://localhost:8000`.
 
-
-This project is licensed under the [MIT License](LICENSE).
